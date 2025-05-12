@@ -17,13 +17,13 @@
 
 <h3 align="left">Contáctame</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/ruben-benavides-050067168/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Icono LindekIn (Adam Pithewan)" height="30" width="40" /></a>
   <a href="https://www.instagram.com/rubendb25/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Icono Instagram (Adam Pithewan)" height="30" width="40" /></a>
-  <a href="mailto:rubendario200325@outlook.com" target="blank"><img align="center"
+  <a href="mailto:dario.benavides@hotmail.com" target="blank"><img align="center"
       src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg"
       alt="Icono Outlook (sempostma)" height="30" width="40" /></a>
 </p>
@@ -73,8 +73,14 @@ He desarrollado pequeños proyectos a lo largo de mi pregrado como ingeniero de 
 <hr>
 
 <h3 align="center">Estadísticas Personales</h3>
-<p><img align="center"
+<p align="center">
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=RubenBenavidess&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RubenBenavidess&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+    alt="Top Languages"/>
+</p>
+<p align="center">
+  <img align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RubenBenavidess&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak Stats" />
+</p>
+
