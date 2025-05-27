@@ -61,7 +61,7 @@
 </p>
 
 <h3 align="center">Proyectos y Experiencia</h3>
-<h3 align="center">Sistema de gestión y reportería de documentos</h3>
+<h3 align="center">Sistema de gestión de documentos</h3>
 Participé junto a un equipo de 2 personas en el desarrollo completo de un sistema realizado en Java con SpringBoot, JavaFX y SQL Server para una empresa de seguridad (Capaseg).
 
 <h3 align="center">Sistema de gestión y control de mantenimientos de equipos electrónicos</h3>
