@@ -11,7 +11,7 @@
 
 - ⚡ Mis habilidades blandas: ética, empatía, comunicación y pensamiento crítico.
 
-- 🧠 Mis habilidades: Inglés avanzado, programación procedimental y OO, Office 365, control de versionamiento y virtualización.
+- 🧠 Mis habilidades: Inglés intermedio, programación procedimental y OO, Office 365, control de versionamiento y virtualización.
 
 <br>
 
