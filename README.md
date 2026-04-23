@@ -5,13 +5,13 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animación (Adam-pw)" /></p>
 
-- ⚙️ Actualmente estudio ingeniería de software en la Universidad de las Fuerzas Armadas, cursando sexto nivel.
+- ⚙️ Actualmente estudio ingeniería de software en la Universidad de las Fuerzas Armadas, cursando último nivel.
 
-- 🌱 Tengo experiencia en desarrollo web, aplicaciones de escritorio y bases de datos.
+- 🌱 Tengo experiencia en desarrollo web, aplicaciones de escritorio, móvil y bases de datos.
 
 - ⚡ Mis habilidades blandas: ética, empatía, comunicación y pensamiento crítico.
 
-- 🧠 Mis habilidades: Inglés intermedio, programación procedimental y OO, Office 365, control de versionamiento y virtualización.
+- 🧠 Mis habilidades duras: Inglés intermedio, programación procedimental y OO, patrones de diseño, SOA, microservicios, AI, control de versionamiento y virtualización.
 
 <br>
 
@@ -20,9 +20,6 @@
   <a href="https://www.linkedin.com/in/ruben-benavides-050067168/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Icono LindekIn (Adam Pithewan)" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/rubendb25/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Icono Instagram (Adam Pithewan)" height="30" width="40" /></a>
   <a href="mailto:dario.benavides@hotmail.com" target="blank"><img align="center"
       src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg"
       alt="Icono Outlook (sempostma)" height="30" width="40" /></a>
@@ -61,6 +58,10 @@
 </p>
 
 <h3 align="center">Proyectos y Experiencia</h3>
+
+<h3 align="center">Aplicación Móvil de Soporte ISSolutions/BitDefender</h3>
+Participé junto a un equipo en el desarrollo de una aplicación móvil hecha en Flutter de soporte extendiendo así el soporte multi plataforma de la organización. 
+
 <h3 align="center">Sistema de gestión de documentos</h3>
 Participé junto a un equipo de 2 personas en el desarrollo completo de un sistema realizado en Java con SpringBoot, JavaFX y SQL Server para una empresa de seguridad (Capaseg).
 
